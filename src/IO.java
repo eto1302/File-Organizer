@@ -59,6 +59,7 @@ public class IO {
         folderPath = Paths.get(folderPath.toString(), file.toString());
         Path filePath = Paths.get(path.toString(), file.toString());
         Files.move(filePath, folderPath, StandardCopyOption.REPLACE_EXISTING);
+        Logger.Log("Moved " + filePath + " to " + folderPath);
     }
 
     private static Optional<String> getExtension(String filename) {

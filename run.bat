@@ -1,0 +1,1 @@
+start javaw -jar C:\Users\vikmar\Desktop\File-Organizer\out\artifacts\File_Organizer_jar\File-Organizer.jar

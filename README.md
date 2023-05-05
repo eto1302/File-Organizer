@@ -11,9 +11,9 @@ This is a Java command-line application for organizing files in a directory base
 ## Usage
 
 To use the Java File Organizer, clone the repository.
-Then select the directories you want to be organized in "Directories.txt".\
+Then select the directories you want to be organized in "Directories.txt".
 
-Add configs to "Folders.txt" if you have files that are not listed there. I used my most used files to create the default configuration. Note that any files, you do not state explicitly will be moved to Misc folder.\
+Add configs to "Folders.txt" if you have files that are not listed there. I used my most used files to create the default configuration. Note that any files, you do not state explicitly will be moved to Misc folder.
 
 Finally, just run the "run.bat" file. This will open the application in your system tray, organize initially the selected directories and keep organizing any files you add to them.
 

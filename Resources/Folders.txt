@@ -1,14 +1,1 @@
-pdf->Documents
-docx->Documents
-doc->Documents
-txt->Text
-png->Images
-jpg->Images
-jpeg->Images
-mp3->Audio
-m4a->Audio
-asd->AbletonFiles
-exe->Installation
-zip->Zips
-sql->Code
-.torrent->Torrents
+

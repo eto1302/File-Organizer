@@ -31,3 +31,7 @@ replay_pid*
 out/
 classes/
 *.class
+
+Directories.txt
+Folders.txt
+Log.txt

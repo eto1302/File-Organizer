@@ -19,7 +19,7 @@ Finally, just run the "run.bat" file. This will open the application in your sys
 
 If you want to close the application, just right-click on the icon and select "Close".
 
-I recommend using the app as a start-up application, which would organize your files while you are using your device.
+I recommend using the app as a start-up application, which would organize your files while you are using your device. In order to do so, add a shortcut to "run.bat" into shell:startup folder.
 ## Contributing
 
 Contributions are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
